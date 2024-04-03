@@ -1,0 +1,3 @@
+D:/FCAI/level4_ first trem/compilers/assignment3/Analyzing/cmake-build-debug/CMakeFiles/Analyzing.dir
+D:/FCAI/level4_ first trem/compilers/assignment3/Analyzing/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/FCAI/level4_ first trem/compilers/assignment3/Analyzing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
